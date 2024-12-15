@@ -13,3 +13,5 @@ These are the 9 implementations:
 
 We used libraries such as nltk and spacy to try and undesratsnd the composition of sentences and manipulate them to our needs. We used tf-idf calculations to generate keywords from sentences and search our database with them. While this bot has pending imrovements to be done regarding accuracy, I am proud of our independent approach.
 
+This code is viewable for reference only and cannot be copied, modified, or redistributed without explicit permission.
+
