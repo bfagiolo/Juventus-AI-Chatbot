@@ -15,3 +15,4 @@ We used libraries such as nltk and spacy to try and undesratsnd the composition 
 
 This code is viewable for reference only and cannot be copied, modified, or redistributed without explicit permission.
 
+![Chatbot answering about players info](chatbotpic1.png)
